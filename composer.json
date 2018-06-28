@@ -1,0 +1,12 @@
+{
+    "name": "slicer/crypto_bot",
+    "require": {
+        "telegram-bot/api": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "slicer256@gmail.com"
+        }
+    ]
+}
